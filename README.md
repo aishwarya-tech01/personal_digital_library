@@ -1,5 +1,3 @@
-﻿# personal_digital_library
-this project to manage and track my personal digital collection of book, ebooks and other digital media
 
 📚 Personal Digital Library
 = 📝 Project Overview
