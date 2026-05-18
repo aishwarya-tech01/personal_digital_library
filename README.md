@@ -13,9 +13,9 @@
 - Dynamic Updates: Includes functionality to ALTER tables (adding a rating system) and UPDATE specific records.
 
 🛠️ Tech Stack
-- Language: SQL (SQLite)
+- Language: SQL (SQLite).
 
-- Editor: Visual Studio Code
+- Editor: Visual Studio Code.
 
 - Concepts: CRUD operations (Create, Read, Update, Delete), Data Normalization, and ACID properties.
 
