@@ -23,7 +23,7 @@
 - The books table consists of:
   title	   TEXT	       The name of the book (Required)
   author	 TEXT	       The author's name (Required)
-  is_read	 INTEGER	   Boolean (0 for No, 1 for Yes)
+  is_read	 INTEGER	   Boolean (0 for No, 1 for Yes).
   rating	 INTEGER	   User rating from 1 to 5 stars.
 
 🚀 How to Use
