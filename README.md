@@ -28,5 +28,6 @@
 
 🚀 How to Use
 - 1.Open the my_library.sql file in VS Code.
+  
 - 2.Run the script using a SQLite extension or command line to initialize the database.
 - 3.Use the SELECT statements at the bottom of the script to view your organized library data.
